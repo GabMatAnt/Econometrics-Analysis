@@ -1,4 +1,4 @@
-use "C:\Users\Antonini\Desktop\Does Inequality affects Growth - Econometrics Project\dummydevelop.dta", clear
+clear
 
 *DOES INEQUALITY NEGATIVELY AFFECT ECONOMIC GROWTH? ARE THERE DIFFERENCES IN ITS IMPACT BETWEEN DVELOPED (OECD) AND NON DEVELOPED NATIONS
 
